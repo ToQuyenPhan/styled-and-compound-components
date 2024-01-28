@@ -1,8 +1,12 @@
 import React from 'react';
+import { FooterContainer } from './containers/footer';
+
 
 function App() {
   return (
-    <h1>Yooo</h1>
+    <>
+      <FooterContainer />
+    </>
   );
 }
 
