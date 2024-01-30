@@ -18,6 +18,7 @@
 - React - version 18.2.
 
 ## Screenshots
+![Project screenshot](./public/images/screenshot.png)
 
 ## Setup
 To run this project, install it locally using npm:
