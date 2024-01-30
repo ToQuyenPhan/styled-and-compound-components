@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General Information
-- This project was a simple designed footer with styled & compund components I created white learning React.
+- This project was a simple designed footer with styled & compund components I created while learning React.
 
 ## Technologies Used
 - React - version 18.2.
