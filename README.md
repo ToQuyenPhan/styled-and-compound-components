@@ -19,9 +19,11 @@
 
 ## Screenshots
 - Web Screenshot
+  
 ![Project screenshot](./public/images/screenshot.png)
 
 - Web Screenshot on mobile
+  
 ![Project screenshot](./public/images/screenshot-mobile.png)
 
 ## Setup
