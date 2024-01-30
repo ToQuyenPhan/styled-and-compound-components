@@ -33,7 +33,7 @@ Project is: _complete_ .
 
 ## Acknowledgements
 - This project was inspired by Brian Design Youtuber
-- This project was based on [this tutorial](https://www.youtube.com/watch?v=SdWJj1LSQPE)).
+- This project was based on [this tutorial](https://www.youtube.com/watch?v=SdWJj1LSQPE).
 
 
 ## Contact
