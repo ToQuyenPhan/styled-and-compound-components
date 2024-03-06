@@ -1,6 +1,6 @@
 # Footer With Styled & Compound Components
 
-> This project was simple react application has a footer with styled & compound components.
+> This project was simple React application has a footer with styled & compound components.
 
 ## Table of Contents
 * [General Info](#general-information)
